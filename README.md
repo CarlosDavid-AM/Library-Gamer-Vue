@@ -117,3 +117,7 @@ El servidor estará disponible por defecto en:
 - **Editor:** [VS Code](https://code.visualstudio.com/)
 - **Extensión oficial:** [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (desactivar Vetur si está instalado).
 - **Herramientas de desarrollo del navegador:** [Vue.js devtools](https://devtools.vuejs.org/)
+
+**Nota Importante:** Este frontend requiere de una API activa para funcionar correctamente. El proyecto backend se encuentra en el siguiente enlace:
+
+👉 [Repositorio Backend](https://github.com/CarlosDavid-AM/Library-Gamer-Laravel) | | https://github.com/CarlosDavid-AM/Library-Gamer-Laravel
